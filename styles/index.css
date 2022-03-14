@@ -1,0 +1,14 @@
+*,html{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    height: 100vh;
+
+}
+.images-div{
+    height: 150px;
+}
+.images{
+    height: 150px;
+}
